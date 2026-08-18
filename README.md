@@ -78,7 +78,7 @@ Repositório em desenvolvimento. Conforme eu publicar e fixar novos projetos no 
 
 ## GitHub
 
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheusmestriner&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmestriner&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&langs_count=8" /> 
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusmestriner&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff" />
 
 <br/>
 
