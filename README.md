@@ -40,7 +40,8 @@ Suporte técnico e manutenção de redes e equipamentos, além de desenvolviment
 ## Linguagens
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cs,html,css,mysql,linux,bash,git,vscode,php,supabase,java,go,typescript,docker,redis,github,react,vercel,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,cs,html,css,mysql,linux,bash,git,vscode,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,supabase,java,go,typescript,docker,redis,github,react,vercel,&theme=dark" />
 </div>   
 
 **Áreas de estudo e interesse:** automação · inteligência artificial & LLMs · chatbots · redes · cybersecurity
