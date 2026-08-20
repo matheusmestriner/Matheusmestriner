@@ -64,15 +64,8 @@ Suporte técnico e manutenção de redes e equipamentos, além de desenvolviment
 <br/>
 
 ## Projetos
-
-[![portaIA](./portaia.png)](https://github.com/matheusmestriner/portaIA)
-
 [![portaIA](https://github-readme-stats.vercel.app/api/pin/?username=matheusmestriner&repo=portaIA&theme=default&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/matheusmestriner/portaIA)
-
-
-[![Tela de login](./tela-login.png)](https://tela-de-login-static.onrender.com)
-
-[![Tela de login](https://github-readme-stats.vercel.app/api/pin/?username=matheusmestriner&repo=Tela-de-login&theme=default&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://tela-de-login-static.onrender.com)
+[![Tela de login](https://github-readme-stats.vercel.app/api/pin/?username=matheusmestriner&repo=portaIA&theme=default&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://tela-de-login-static.onrender.com)
 
 ``` 
 Repositório em desenvolvimento. Conforme eu publicar e fixar novos projetos no perfil, essa seção pode ganhar mais cards.
