@@ -64,9 +64,7 @@ Suporte técnico e manutenção de redes e equipamentos, além de desenvolviment
 <br/>
 
 ## Projetos
-
-[![portaIA Logo](https://raw.githubusercontent.com/matheusmestriner/portaIA/main/assets/logo-portaia.png)](https://github.com/matheusmestriner/portaIA)
-[![portaIA](https://github-readme-stats.vercel.app/api/pin/?username=matheusmestriner&repo=portaIA&theme=default&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/matheusmestriner/portaIA)
+[![portaIA](https://raw.githubusercontent.com/matheusmestriner/portaIA/main/assets/logo.png,https://github.com/matheusmestriner/portaIAhttps://github-readme-stats.vercel.app/api/pin/username=matheusmestriner&repo=portaIA&theme=default&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff,]https://github.com/matheusmestriner/portaIA)]
 
 
 ``` 
