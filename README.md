@@ -65,47 +65,7 @@ Suporte técnico e manutenção de redes e equipamentos, além de desenvolviment
 
 ## Projetos
 
-<div align="center">
 
-<!-- portaIA -->
-<a href="https://github.com/matheusmestriner/portaIA">
-  <img
-    src="https://raw.githubusercontent.com/matheusmestriner/portaIA/main/assets/logo-portaia.png"
-    alt="portaIA"
-    width="90"
-  />
-</a>
-
-<br>
-
-<a href="https://github.com/matheusmestriner/portaIA">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmestriner&repo=portaIA&theme=default&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-    alt="portaIA"
-  />
-</a>
-
-<br><br>
-
-<!-- Tela de Login -->
-(<a href="https://tela-de-login-static.onrender.com">
-  <img
-    src="https://raw.githubusercontent.com/matheusmestriner/portaIA/main/assets/logo-portaia.png"
-    alt="Tela de Login"
-    width="90"
-  />
-</a>
-
-<br>
-
-<a href="https://tela-de-login-static.onrender.com">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmestriner&repo=Tela-de-login&theme=default&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-    alt="Tela de Login"
-  />
-</a>)
-
-</div>
 
 ``` 
 Repositório em desenvolvimento. Conforme eu publicar e fixar novos projetos no perfil, essa seção pode ganhar mais cards.
